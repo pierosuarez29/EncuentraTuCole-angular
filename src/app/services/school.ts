@@ -64,7 +64,7 @@ export interface SchoolSearchParams {
 @Injectable({ providedIn: 'root' })
 export class SchoolService {
   // Proxy Express
-  private baseUrl = 'https://indenticole-proxy.onrender.com';
+  private baseUrl = 'https://encuentratucole-proxy.onrender.com';
 
   constructor(private http: HttpClient) { }
 

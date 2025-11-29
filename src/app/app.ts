@@ -17,7 +17,7 @@ import {
   styleUrls: ['./app.css'],
 })
 export class App {
-  title = () => 'Identicole Angular demo';
+  title = () => 'Explorador de Colegios del Perú (no oficial)';
 
   // tema claro / oscuro
   isLightTheme = false;
